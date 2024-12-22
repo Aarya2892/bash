@@ -1,2 +1,2 @@
 editing the file
-echo "hello"
+echo "hello aarya"
